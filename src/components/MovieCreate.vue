@@ -27,7 +27,7 @@
 
                     <v-text-field
                       v-model="movie.task_number"
-                      label="Number"
+                      label="Priority"
                       required
                     />
                     <v-text-field
