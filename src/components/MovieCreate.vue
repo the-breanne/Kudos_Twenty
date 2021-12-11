@@ -65,7 +65,7 @@
                     <v-text-field
                       v-model="movie.deadline"
                       label="Deadline"
-                      <datetime v-model="Deadline"></datetime>
+                      <p>Deadline <input type="text" id="datepicker"></p>
                       required
                       
  
